@@ -361,6 +361,10 @@ Revenue after applying dashboard filters
 
 📊 Dashboard & Visualizations
 
+
+<img width="1094" height="619" alt="Screenshot 2026-09-30 at 3 35 30 AM" src="https://github.com/user-attachments/assets/dbad6874-5a19-4dca-aa21-7c91ab318397" />
+
+
 The Power BI report was designed to provide a high-level overview of
 customer behaviour and then allow deeper analysis.
 
